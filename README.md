@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tmg44
-- 👀 I’m interested in Python.
-- 🌱 I’m currently learning Python.
+- 👀 I’m interested in JavaScript & Python.
+- 🌱 I’m currently learning JavaScript & Python.
 - 📫 How to reach me tmg44x@gmail.com
 
 <!---
