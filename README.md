@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tmg44
+- 👋 Hi, I’m Tina Marie aka @tmg44
 - 👀 I’m interested in JavaScript & Python.
 - 🌱 I’m currently learning JavaScript & Python.
 - 📫 How to reach me tmg44x@gmail.com
